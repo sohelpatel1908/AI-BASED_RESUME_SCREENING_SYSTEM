@@ -8,3 +8,6 @@ __pycache__/
 
 # Ignoring VS Code configuration setting file
 .vscode/
+
+# Ignoring Saved Model
+models/embedding_model/
