@@ -15,7 +15,7 @@ def load_skills(job_title):
     '''Loading all skills from the Dataset'''
 
     try:
-        skill_db = pd.read_csv('data\\job_descriptions\\JobsDatasetProcessed.csv')
+        skill_db = pd.read_csv('data/job_descriptions/JobsDatasetProcessed.csv')
 
         skill_list = []
 
