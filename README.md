@@ -45,3 +45,6 @@
 • Bias detection
 • Feedback loop
 • Online deployment
+## **Live Link:**
+For checking live, [click here](https://ai-basedresumescreeningsystem-vtsddeqncx6t7vsiikles7.streamlit.app/)\
+or <https://ai-basedresumescreeningsystem-vtsddeqncx6t7vsiikles7.streamlit.app/>
